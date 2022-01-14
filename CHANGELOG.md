@@ -1,3 +1,10 @@
+### [0.1.2](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/compare/v0.1.1...v0.1.2) (2022-01-14)
+
+
+### Features
+
+* Move municipio-intranet-gatsby to MU plugins ([da7d891](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/commit/da7d89190ae0866e185e729f3f0e64dd85fe794a))
+
 ### [0.1.1](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/compare/v0.1.0...v0.1.1) (2022-01-14)
 
 
