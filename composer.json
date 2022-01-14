@@ -52,6 +52,7 @@
       "wp-content/mu-plugins/{$name}/": [
         "helsingborg-stad/modularity",
         "municipio/modularity-graphql",
+        "municipio/municipio-intranet-gatsby",
         "municipio/municipio-gatsby",
         "pristas-peter/wp-graphql-gutenberg",
         "pristas-peter/wp-graphql-gutenberg-acf",
