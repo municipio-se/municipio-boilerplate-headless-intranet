@@ -1,7 +1,14 @@
-## 0.1.0 (2022-01-14)
+### [0.1.1](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/compare/v0.1.0...v0.1.1) (2022-01-14)
 
 
 ### Bug Fixes
 
-* Use municipio/municipio-bundle-headless-intranet 3c0c707
+* Fatal error when vlucas/phpdotenv is not direct dep ([16af7f9](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/commit/16af7f903e6eb9e8850c5fa41dac18a0433e8c96))
+
+## [0.1.0](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/compare/3c0c707e36a037ebedf755a0e3e071a44c996b28...v0.1.0) (2022-01-14)
+
+
+### Bug Fixes
+
+* Use municipio/municipio-bundle-headless-intranet ([3c0c707](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/commit/3c0c707e36a037ebedf755a0e3e071a44c996b28))
 
