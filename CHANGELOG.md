@@ -1,3 +1,16 @@
+## [1.0.0](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/compare/v0.1.2...v1.0.0) (2022-01-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Upgrade bundle
+* Remove boilerplate code for ACF
+
+### Features
+
+* **deps:** Upgrade bundle ([fa54a00](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/commit/fa54a000c3558d56637d90efe1667440bee52b2b))
+* Remove boilerplate code for ACF ([b0cdea1](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/commit/b0cdea1b9b164d9819a9917b3413a4a47a044b86))
+
 ### [0.1.2](https://github.com/municipio-se/municipio-boilerplate-headless-intranet/compare/v0.1.1...v0.1.2) (2022-01-14)
 
 
